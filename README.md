@@ -1,4 +1,4 @@
-<a> <img src="https://i.pinimg.com/564x/93/79/3b/93793b74d19bd19540cfce18bb5bf72c.jpg" align="center"/> </a>  
+<a> <img src="https://i.pinimg.com/564x/93/79/3b/93793b74d19bd19540cfce18bb5bf72c.jpg" style ="margin-left: 143 px;"/> </a>  
 <h1 align="center">Hi 👋, I'm Md.Nur-ul Momen Tohin</h1>
 <h3 align="center">A passionate python & django developer from Bangladesh</h3>
 <hr>
@@ -9,7 +9,7 @@
 <a href="https://docs.djangoproject.com/en/3.2/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.geeksforgeeks.org/python-classes-and-objects/?ref=lbp" target="_blank">OOP</a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.geeksforgeeks.org/python-classes-and-objects/?ref=lbp" target="_blank"><p width="40" height="40">OOP</p></a>
 </p>
 
 
