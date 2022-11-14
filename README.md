@@ -30,3 +30,11 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=momen105&show_icons=true)  
 
+<a href="https://github.com/Naser-Rifat/github-readme-stats"><img alt="Abu Naser Rifat Github Stats" src="https://github-readme-stats.vercel.app/api?username=Naser-Rifat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/Naser-Rifat/github-readme-stats"><img alt="Abu Naser Rifat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naser-Rifat&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+<a href="https://github.com/Naser-Rifat/github-readme-activity-graph"><img alt="Abu Naser Rifat Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Naser-Rifat&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<a href="https://github.com/Naser-Rifat/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Naser-Rifat">
+</a><a href="https://github.com/Naser-Rifat?tab=followers"><img src="https://img.shields.io/github/followers/Naser-Rifat?label=Followers&style=social" alt="GitHub Badge"></a>
+
