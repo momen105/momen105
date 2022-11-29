@@ -28,4 +28,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momen105)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=momen105&show_icons=true)  
+<a href="https://github.com/momen105/github-readme-stats"><img alt="Momen Tohin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=momen105&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/momen105/github-readme-stats"><img alt="Momen Tohin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momen105&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
